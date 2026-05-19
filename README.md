@@ -18,7 +18,7 @@ Dataset - Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.
 ```bibtex
 @conferencepaper{erkutresul-2026-crimeanlegendsNER,
     title = {Kırım Efsanelerinde Mekânsal Unsurların Adlandırılmış Varlık Tanıma için Etiketlenmesi ve Veri Seti Oluşturulması},
-    author = {E. R.},
+    author = {Erkut Resuloğlu},
     symposium = {3. Uluslararası Bilim, Yazı ve Edebiyat Dili Olarak Türkçe Sempozyumu},
     year = {2026},
     type = {Bildiri},
