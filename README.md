@@ -1,4 +1,4 @@
-## KIRIM EFSANELERİNDE MEKÂNSAL UNSURLARIN ADLANDIRILMIŞ VARLIK TANIMA İÇİN ETİKETLENMESİ VE VERİ SETİ OLUŞTURULMASI
+## Kırım Efsanelerinde Mekânsal Unsurların Adlandırılmış Varlık Tanıma için Etiketlenmesi ve Veri Seti Oluşturulması
 
 ## Özet
 
