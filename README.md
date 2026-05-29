@@ -10,7 +10,6 @@
 
 ### License
 
-Code - GNU Affero General Public License v3.0 (AGPL-3.0)</br>
 Dataset - Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
 
 ### Citation
