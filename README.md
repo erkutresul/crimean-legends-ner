@@ -9,7 +9,7 @@
 ¹ III. Uluslararası Bilim, Yazı ve Edebiyat Dili Olarak Türkçe Sempozyumu, 18-19-20 Mayıs 2026.
 
 ### License
-![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-blue.svg)
+![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)
 
 ### Citation
 ```bibtex
