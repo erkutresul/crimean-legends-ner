@@ -967,7 +967,7 @@ export const PARSED_DATASET: LegendItem[] = RAW_DATASET.map((item, index) => {
   });
 
   return {
-    id: `varlık-${index + 1}`,
+    id: `unsur-${index + 1}`,
     text: item.text,
     entities,
     title: item.title,
