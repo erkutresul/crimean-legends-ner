@@ -25,9 +25,9 @@ export const PAPER_METADATA = {
 };
 
 export const ENTITY_TYPES = {
-  REG: { label: "REG (Bölgesel)", color: "rose", bg: "bg-rose-50 dark:bg-rose-950/40", border: "border-rose-200 dark:border-rose-800/60", text: "text-rose-700 dark:text-rose-300", badge: "bg-rose-600 text-white", desc: "Coğrafi veya idari geniş bölgeleri temsil eder. (Örn: Kırım, Sibirya vb.)" },
+  REG: { label: "REG (Bölgesel)", color: "rose", bg: "bg-rose-50 dark:bg-rose-950/40", border: "border-rose-200 dark:border-rose-800/60", text: "text-rose-700 dark:text-rose-300", badge: "bg-rose-600 text-white", desc: "Coğrafi veya idari geniş bölgeleri temsil eder." },
   GEO: { label: "GEO (Coğrafi)", color: "emerald", bg: "bg-emerald-50 dark:bg-emerald-950/40", border: "border-emerald-200 dark:border-emerald-800/60", text: "text-emerald-700 dark:text-emerald-300", badge: "bg-emerald-600 text-white", desc: "Dağ, orman, nehir, geçit gibi doğal yeryüzü şekillerini temsil eder." },
-  LOC: { label: "LOC (Yerleşim)", color: "sky", bg: "bg-sky-50 dark:bg-sky-950/40", border: "border-sky-200 dark:border-sky-800/60", text: "text-sky-700 dark:text-sky-300", badge: "bg-sky-600 text-white", desc: "Kent, kasaba, köy, mahalle gibi yerleşim alanlarını temsil eder. (Örn: Otuz, Kefe vb.)" },
+  LOC: { label: "LOC (Yerleşim)", color: "sky", bg: "bg-sky-50 dark:bg-sky-950/40", border: "border-sky-200 dark:border-sky-800/60", text: "text-sky-700 dark:text-sky-300", badge: "bg-sky-600 text-white", desc: "Kent, kasaba, köy, mahalle gibi yerleşim alanlarını temsil eder." },
   FAC: { label: "FAC (Yapı)", color: "purple", bg: "bg-purple-50 dark:bg-purple-950/40", border: "border-purple-200 dark:border-purple-800/60", text: "text-purple-700 dark:text-purple-300", badge: "bg-purple-600 text-white", desc: "Kışla, saray, köprü, kale gibi yapıları temsil eder." },
   SAC: { label: "SAC (Kutsal)", color: "amber", bg: "bg-amber-50 dark:bg-amber-950/40", border: "border-amber-200 dark:border-amber-800/60", text: "text-amber-700 dark:text-amber-300", badge: "bg-amber-600 text-white", desc: "Cami, kilise ve manastır gibi yapıları temsil eder." }
 };
