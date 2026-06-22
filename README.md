@@ -21,6 +21,6 @@
     type = {Bildiri},
     pages = {-},
     language = {Turkish},
-    abstract = {-}
+    abstract = {Annotation and Dataset Construction for Named Entity Recognition of Spatial Elements in Crimean Legends}
 }
 ```
