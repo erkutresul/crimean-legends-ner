@@ -1301,17 +1301,6 @@ export default function App() {
             <span className="font-serif font-semibold text-slate-800 text-sm block">III. Uluslararası Bilim, Yazı ve Edebiyat Dili Olarak Türkçe Sempozyumu, 18-19-20 Mayıs 2026.</span>
             <span className="block mt-0.5 text-stone-400">© 2026 Bu platformdaki tüm içerikler telif hakkı ile korunmaktadır.</span>
           </div>
-
-          <div className="flex items-center gap-4 text-orange-600 font-medium">
-            <a href="#github-repo" onClick={(e) => { e.preventDefault(); alert("GitHub’a yüklemeye hazır!"); }} className="hover:underline flex items-center gap-1">
-              <span>GitHub Repository</span>
-              <ExternalLink size={12} />
-            </a>
-            <span>•</span>
-            <a href="#academic-license" onClick={(e) => { e.preventDefault(); alert("Bu çalışma, Creative Commons Attribution 4.0 International (CC BY 4.0) lisansı altında lisanslanmıştır."); }} className="hover:underline">
-              Lisans Bilgisi
-            </a>
-          </div>
         </div>
       </footer>
 
