@@ -380,7 +380,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="font-serif text-lg md:text-xl font-semibold text-slate-950">
-                Türkçe ve Doğal Dil İşleme Araştırmaları
+                CrimeanLegendsNER 2026
               </h1>
             </div>
           </div>
